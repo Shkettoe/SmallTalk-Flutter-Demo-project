@@ -26,3 +26,7 @@ flutter run
 ```
 
 Or you can simply download the apk and run it on a real android device.
+
+## Screenshots
+![Image](https://github.com/user-attachments/assets/234dee38-f3a7-41f0-8a95-633e1f2d8ded)
+![Image](https://github.com/user-attachments/assets/899c710d-4ac6-4fdf-8a9f-30511c778995)
